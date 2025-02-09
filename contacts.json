@@ -1,0 +1,15 @@
+{
+    "contacts": [
+      {
+        "id": 101,
+        "email": "jungkook@example.com",
+        "phone": "+82-10-1234-5678"
+      },
+      {
+        "id": 102,
+        "email": "taehyung@example.com",
+        "phone": "+82-10-5678-1234"
+      }
+    ]
+  }
+  

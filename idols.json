@@ -1,0 +1,25 @@
+{
+    "idols": [
+      {
+        "id": 1,
+        "name": "Jeon Jungkook",
+        "description": "Zanger en danser van BTS.",
+        "age": 26,
+        "isActive": true,
+        "birthdate": "1997-09-01",
+        "imageUrl": "Webontwikkeling_project/images/JeonJungkook.jpg",
+        "contactId": 101
+      },
+      {
+        "id": 2,
+        "name": "Kim Taehyung",
+        "description": "Vocalist van BTS, bekend als V.",
+        "age": 28,
+        "isActive": true,
+        "birthdate": "1995-12-30",
+        "imageUrl": "Webontwikkeling_project/images/taehyung.jpg",
+        "contactId": 102
+      }
+    ]
+  }
+  
