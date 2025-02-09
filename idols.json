@@ -7,7 +7,7 @@
         "age": 26,
         "isActive": true,
         "birthdate": "1997-09-01",
-        "imageUrl": "Webontwikkeling_project/images/JeonJungkook.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/NjlaAnzx/Webontwikkeling_project/refs/heads/master/idols.json/images/JeonJungkook.jpg",
         "contactId": 101
       },
       {
@@ -17,7 +17,7 @@
         "age": 28,
         "isActive": true,
         "birthdate": "1995-12-30",
-        "imageUrl": "Webontwikkeling_project/images/taehyung.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/NjlaAnzx/Webontwikkeling_project/refs/heads/master/idols.json/images/taehyung.jpg",
         "contactId": 102
       }
     ]
